@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+	// your code goes here
+	char x[10];
+	scanf("%10s",&x);
+	printf("%c",x[6]);
+
+}
+
